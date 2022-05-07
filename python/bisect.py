@@ -18,7 +18,7 @@ def bisect_left(array, target):
     left, right = 0, len(array)   # note: right
     while left < right:
         mid = (left + right) // 2
-        if array[mid] < x:
+        if array[mid] < target:
             left = mid + 1
         else:
             right = mid
