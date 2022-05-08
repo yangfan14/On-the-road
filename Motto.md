@@ -1,2 +1,3 @@
 - #### Keep your own pace towards success, and do not be overly anxious about external environment. (20220504) 
 - #### Be yourself! Everyone is unique. Keep doing what you think is valuable. (20220505)
+- #### Frameworks are higher order functions based on programming basics. They are similar to the various tools we human make along history. We can better realize what else we are able to acheive and how far we can go with the '0's and '1's. Maybe eventually we will find that the answer is everything. (20220508)
