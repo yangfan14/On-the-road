@@ -1,5 +1,5 @@
-- #### Keep your own pace towards success, and do not be overly anxious about external environment. (20220504) 
-- #### Be yourself! Everyone is unique. Keep doing what you think is valuable. (20220505)
-- #### Frameworks are higher order functions based on programming basics. They are similar to the various tools we human make along history. We can better realize what else we are able to acheive and how far we can go with the '0's and '1's. Maybe eventually we will find that the answer is everything. (20220508)
-- #### Business is not just in markets. Seeking a job is pretty much a "business": The employer is in the condition to choose from a number of candidates, and you are in the condition to try your best to "sell" yourself. (20220512)
-- #### Just like computer science, we humans also consist data and algorithms. Data are stored in our memories, and algorithms are our abilities and skills. Maybe this is why computers are initially called "electric brains" in China. (20220525)
+- #### Keep your own pace towards success, and do not be overly anxious about external environment. 
+- #### Be yourself! Everyone is unique. Keep doing what you think is valuable. 
+- #### Frameworks are higher order functions based on programming basics. They are similar to the various tools we human make along history. We can better realize what else we are able to acheive and how far we can go with the '0's and '1's. Maybe eventually we will find that the answer is everything. 
+- #### Business is not just in markets. Seeking a job is pretty much a "business": The employer is in the condition to choose from a number of candidates, and you are in the condition to try your best to "sell" yourself.
+- #### Just like computer science, we humans also consist data and algorithms. Data are stored in our memories, and algorithms are our abilities and skills. Maybe this is why computers are initially called "electric brains" in China.
