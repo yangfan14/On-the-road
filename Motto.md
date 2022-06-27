@@ -4,3 +4,4 @@
 - #### Business is not just in markets. Seeking a job is pretty much a "business": The employer is in the condition to choose from a number of candidates, and you are in the condition to try your best to "sell" yourself.
 - #### Just like computer science, we humans also consist data and algorithms. Data are stored in our memories, and algorithms are our abilities and skills. Maybe this is why computers are initially called "electric brains" in China.
 - #### All is data! The problem is how to pick userful data and organize data for better use.
+- #### Entry level engineers are expected to have the ability to perform basic tasks, produce small components, or write basic functions, and it is the responsibility of managers / senior engineers to decide and teach them how to put / organize things together.
