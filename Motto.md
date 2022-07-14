@@ -6,3 +6,4 @@
 - #### All is data! The problem is how to pick userful data and organize data for better use.
 - #### Entry level engineers are expected to have the ability to perform basic tasks, produce small components, or write basic functions, and it is the responsibility of managers / senior engineers to decide and teach them how to put / organize things together.
 - #### Always make good use of trouble shooting / bugs fixing experience! I usually learn twice deeper than normal learning.
+- #### It is an execution of dynamic programming in our whole life! Specificly it is the bottom-up pattern.
