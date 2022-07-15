@@ -19,6 +19,6 @@ return ans
 - https://leetcode.com/problems/maximum-subarray/
 - https://leetcode.com/problems/maximum-sum-circular-subarray/
 
-#### Thoughts
+#### :bulb: Thoughts
 Along the journey, only bring the guys that may contribute to your goal with you, or you have to dispose them and start a new try. 
 But do not forget to update the possibility based on your tries.
